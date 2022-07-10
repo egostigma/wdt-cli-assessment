@@ -1,5 +1,8 @@
 # Documentation
 
+**Install dependecies before running app**\
+`composer install`
+
 ## Compare the Triplets
 
 `php application triplets --data="5 6 7" --data="3 6 10"`\
