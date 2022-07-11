@@ -17,7 +17,7 @@
 `php application isPrime 237`\
 `output: false`
 
-## Remove Dupliicate
+## Remove Duplicate
 
 `php application removeDuplicate 1 3 3 3 1 5 6 7 8 1`\
 `output: [1,3,5,6,7,8]`
